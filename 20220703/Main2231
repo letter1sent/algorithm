@@ -1,6 +1,19 @@
 
 public class Main2231 {
+    // 분해합문제
     public static void main(String[] args) {
         
+        BufferedReader br = new BufferedReader(new InputStreamReader(system.in()));
+        
+        int N = Integer.parseInt(br.readLine());
+
+        int[] n;
+        n = new int[5];
+
+        // N이 216 이면
+        /*for(int i=1;N>0;i*10) {
+            int m[i] = N/i; // i=1
+        }*/
+
     }
 }
