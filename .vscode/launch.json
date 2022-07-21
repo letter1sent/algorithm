@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch Main2751",
+            "request": "launch",
+            "mainClass": "Main2751",
+            "projectName": "algorithm_630f4cab"
+        },
+        {
             "name": "Java",
             "type": "java",
             "request": "launch",
